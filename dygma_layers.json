@@ -424,9 +424,9 @@
           "label": "TAB"
         },
         {
-          "keyCode": 24576,
-          "label": "0",
-          "extraLabel": "MACRO"
+          "keyCode": 1077,
+          "label": "`",
+          "extraLabel": "AGr+"
         },
         {
           "keyCode": 0,
@@ -504,9 +504,8 @@
           "extraLabel": "CTRL/"
         },
         {
-          "keyCode": 0,
-          "label": "NO KEY",
-          "verbose": "Disabled"
+          "keyCode": 4,
+          "label": "A"
         },
         {
           "keyCode": 0,
@@ -5445,13 +5444,13 @@
       8,
       8,
       4,
-      15,
+      4,
       15,
       5,
       15,
       15,
       7,
-      15,
+      4,
       15,
       5,
       5,

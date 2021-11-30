@@ -336,13 +336,13 @@
           "verbose": "AltGr"
         },
         {
-          "keyCode": 231,
-          "label": "RIGHT WIN",
-          "verbose": "Right Win"
-        },
-        {
           "keyCode": 101,
           "label": "MENU"
+        },
+        {
+          "keyCode": 228,
+          "label": "RIGHT CTRL",
+          "verbose": "Right Control"
         },
         {
           "keyCode": 228,
@@ -368,8 +368,9 @@
           "label": "F3"
         },
         {
-          "keyCode": 61,
-          "label": "F4"
+          "keyCode": 573,
+          "label": "F4",
+          "extraLabel": "A+"
         },
         {
           "keyCode": 62,
@@ -718,19 +719,18 @@
           "verbose": "AltGr"
         },
         {
-          "keyCode": 0,
-          "label": "NO KEY",
-          "verbose": "Disabled"
+          "keyCode": 101,
+          "label": "MENU"
         },
         {
-          "keyCode": 0,
-          "label": "NO KEY",
-          "verbose": "Disabled"
+          "keyCode": 231,
+          "label": "RIGHT WIN",
+          "verbose": "Right Win"
         },
         {
-          "keyCode": 0,
-          "label": "NO KEY",
-          "verbose": "Disabled"
+          "keyCode": 228,
+          "label": "RIGHT CTRL",
+          "verbose": "Right Control"
         }
       ],
       [
@@ -5501,9 +5501,9 @@
       15,
       15,
       15,
-      15,
-      15,
-      15,
+      4,
+      4,
+      4,
       4,
       1,
       1,

@@ -1,4 +1,4 @@
-# Dygma layers
+# Dygma layers raise
 
 ## Layer 0
 ![Layer 0](imgs/Layer0.png)
